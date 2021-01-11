@@ -1,0 +1,43 @@
+<DOCTYPE html>
+  <html>
+    <head><h style="text-align: left; width:49%; display: inline-block;font-family:sans-serif; font-size:16px;margin:20px 50px; position:static;"><b> XYZ Design Group Ltd.</b></h>
+      <h2 style="text-align: right; width:35%;  display: inline-block;font-size:16px; font-family:Verdana;position:static;">Home &emsp; About Us &emsp; Team &emsp;</h2></head>
+    <body>
+      <center><img class="rounded" src= https://via.placeholder.com/150/FFB6C1 style="position:relative; top:37px; "/></center> 
+      <div class="container">
+        <div class="side">
+          <p class="line" style="position:relative; top:37px; font-family:Verdana;font-size:16px;text-align:justify"><b>Our Team</b><br>Break Through Tech New York works to propel more women into tech careers.</p><br>
+          <center><img src= "https://via.placeholder.com/445x90/AAAAAA" style="position:relative;top:13px;"/></center></div>
+        <div class="divider"></div>
+          <p class="line"style="position:relative; right:50px; top:67px; left:text-align:justify;font-family:Verdana;font-size:16px;"><b>Our mission</b><br>Break Through Tech New York works to propel more women into tech careers through educational programs, work opportunities, and community building. When the traditional doors of opportunity appear closed, we develop new doors. We do this because we believe that closing the gender gap in tech is essential to being competitive in the digital age.</p></div>
+    </body>
+   </html>
+
+body{
+    background-image: url('https://via.placeholder.com/728x90/AAAAAA');
+    background-repeat: no-repeat;
+    background-size: 100% 35%;
+    background-position: 0px 90px;
+}
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position:static;
+}
+
+.side {
+  width: 35%;
+  height: 100%;
+  position: relative;
+  margin: 20px 40px;
+}
+.rounded{
+  border-radius:50%;
+}
+p.line{
+  line-height:2.0;
+}
+.divider{
+  width:10%;
+}
