@@ -1,0 +1,28 @@
+.headerimg{
+   background-image: url('https://via.placeholder.com/728x90/AAAAAA');
+   background-repeat: no-repeat;
+   background-size: 100% 33%;  
+   margin:15px 0px;
+}
+.column1{
+  display:inline-block;
+  width: 20%;
+  height: 100%;
+  text-align: justify;
+  margin:70px 50px ;
+}
+.column2{
+  display:inline-block;
+  width: 70%;
+  height: 100%;  
+  text-align: justify;
+  margin:70px 30px;
+  
+}
+.rounded{
+  border-radius:50%;
+  
+}
+.totalspace{
+  display:flex;
+}

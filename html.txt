@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head> 
+</head>
+  <body>
+    <div class="head">  
+    <h style="text-align: left; width:68%; display: inline-block;font-size:26px;margin:20px 50px; font-family:Verdana;"><b> XYZ Design Group Ltd.</b></h>
+       <h style="text-align: right;font-size:16px; font-family:Verdana;">Home &emsp; About Us &emsp; Team &emsp;</h</div>
+         <div class="headerimg">
+    <center><img class="rounded" src= https://via.placeholder.com/230/FFB6C1 style="position:relative; top:25px; "/></center> 
+    <div class="totalspace">
+    <div class="column1">
+      <h2 style="font-size:26px;font-family:Verdana;">Our Team</h2>
+      <p class="line" style="font-family:Verdana;font-size:16px;line-height:2.0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.<br><center><img src="https://via.placeholder.com/300x120/FFB6C1"/></center></p></div> 
+    <div class="column2">
+      <h3 style="font-size:26px;font-family:Verdana;">Our Mission</h3>
+      <p style="font-family:Verdana;font-size:16px;line-height:2.0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat.</p><p style="line-height:2.0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat.</p></div></div>
+      </body>
+    </html>
+  
